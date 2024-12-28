@@ -128,7 +128,7 @@ namespace BubberBreakFastAPI.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllBreakFast(string? sort)
+        public IActionResult GetAllBreakFast()
         {
             var request = _breakFastRepository.GetBreakFasts().AsQueryable();
 
