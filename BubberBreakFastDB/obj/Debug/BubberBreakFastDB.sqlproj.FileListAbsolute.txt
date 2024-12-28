@@ -1,0 +1,6 @@
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\bin\Debug\BubberBreakFastDB.dacpac
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\bin\Debug\BubberBreakFastDB.dll
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\bin\Debug\BubberBreakFastDB.pdb
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\obj\Debug\BubberBreakFastDB.sqlproj.AssemblyReference.cache
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\obj\Debug\BubberBreakFastDB.dll
+C:\Users\Ezekiel\Desktop\API Projects\BubberBreakFastAPI\BubberBreakFastDB\obj\Debug\BubberBreakFastDB.pdb
